@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    
+    top: 0rem;
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 30px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 700px;
+    max-width: 700px;
+    border: 3px solid #02ABAD;
+    background-color: #BCF6F7;
+}
+
+th {
+    min-width: 90px;
+}
+
+th, td {
+    border-bottom: 2px solid #02ABAD;
+}
+
+.sub-header {
+    font-size: 24;
+    text-align: center;
+    color: #02ABAD;
+}
+
+.tag, .attribute {
+    font-family: 'cutive mono';
+    font-style: italic;
+    letter-spacing: -0.1rem;
+    background: #FF924F;
+    background-clip: content-box;
+}
